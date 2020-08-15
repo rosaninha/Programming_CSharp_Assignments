@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Chapter02Program01\Chapter02Program01\obj\Debug\frm.resources
+C:\Users\user\Desktop\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Chapter02Program01\Chapter02Program01\obj\Debug\Chapter02Program01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chapter02Program01\Chapter02Program01\obj\Debug\frmMain.resources
