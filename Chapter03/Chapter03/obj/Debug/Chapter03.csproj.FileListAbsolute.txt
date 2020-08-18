@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\Chapter03\Chapter03\obj\Debug\Chapter03.csprojAssemblyReference.cache
-C:\Users\user\Desktop\Chapter03\Chapter03\obj\Debug\Chapter03.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Chapter03\Chapter03\bin\Debug\Chapter03.exe.config
-C:\Users\user\Desktop\Chapter03\Chapter03\bin\Debug\Chapter03.exe
-C:\Users\user\Desktop\Chapter03\Chapter03\bin\Debug\Chapter03.pdb
-C:\Users\user\Desktop\Chapter03\Chapter03\obj\Debug\Chapter03.exe
-C:\Users\user\Desktop\Chapter03\Chapter03\obj\Debug\Chapter03.pdb
