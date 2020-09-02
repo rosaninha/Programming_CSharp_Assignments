@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Uberproblem\Uberproblem\bin\Debug\netcoreapp3.1\Uberproblem.exe
+C:\Users\user\Desktop\Uberproblem\Uberproblem\bin\Debug\netcoreapp3.1\Uberproblem.deps.json
+C:\Users\user\Desktop\Uberproblem\Uberproblem\bin\Debug\netcoreapp3.1\Uberproblem.runtimeconfig.json
+C:\Users\user\Desktop\Uberproblem\Uberproblem\bin\Debug\netcoreapp3.1\Uberproblem.runtimeconfig.dev.json
+C:\Users\user\Desktop\Uberproblem\Uberproblem\bin\Debug\netcoreapp3.1\Uberproblem.dll
+C:\Users\user\Desktop\Uberproblem\Uberproblem\bin\Debug\netcoreapp3.1\Uberproblem.pdb
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.AssemblyInfo.cs
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.dll
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.pdb
+C:\Users\user\Desktop\Uberproblem\Uberproblem\obj\Debug\netcoreapp3.1\Uberproblem.genruntimeconfig.cache
