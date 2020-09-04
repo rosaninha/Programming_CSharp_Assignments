@@ -1,0 +1,37 @@
+C:\IBT CS programing\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\IBT CS programing\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\IBT CS programing\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\IBT CS programing\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\IBT CS programing\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\IBT CS programing\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\IBT CS programing\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Programming3\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\Documents\GitHub\Project02Calculator\Project02Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
